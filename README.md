@@ -36,9 +36,9 @@ I will build a multiclass classification model using a custom convolutional neur
   - squamous cell carcinoma - 181 samples 
   - vascular lesion - 139 samples
 - Without Batch Normalisation and dropout the model overfits and the accuracy is also low
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- With Batch Normalisation and dropout the accuracy improves, the model becomes more stable
+![image](https://user-images.githubusercontent.com/111374919/220699820-46e47c3f-3de3-44b9-b4ef-8c25b0c3baf6.png)
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
